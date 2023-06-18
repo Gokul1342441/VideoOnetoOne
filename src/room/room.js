@@ -26,7 +26,7 @@ const Room = () => {
         sharedLinks: [
             {
               name: 'Personal link',
-              url: `https://example.com/room/${roomId}`,
+              url: `https://video-oneto-kckq2qm9h-gokul1342441.vercel.app/${roomId}`,
             },
           ],
         scenario: {
